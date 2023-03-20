@@ -7,6 +7,8 @@ Here's an image of our fast api in working:
 ![image](https://user-images.githubusercontent.com/69692410/223127808-731405e6-77b6-4554-8a73-d2443c94eeed.png)
 
 ![image](https://user-images.githubusercontent.com/69692410/226317473-05ba876f-89a6-435b-b70b-75bf76b02de2.png)
+![image](https://user-images.githubusercontent.com/69692410/226318496-1d9c84e0-0640-4ff9-ba55-d62499e10453.png)
+
 
 
 
